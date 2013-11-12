@@ -135,7 +135,7 @@ autocmd vimenter * NERDTree
 map <C-n> :NERDTreeToggle<CR>
 
 " set  map <ESC>
-map <A-j> <Esc>
+map <A-g> <Esc>
 
 " ============================================================================
 " Python IDE Setup
